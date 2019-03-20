@@ -1,0 +1,1 @@
+# langerma-logstash-config
